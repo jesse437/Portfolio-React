@@ -1,16 +1,14 @@
 import { useState } from "react";
 import "../src/components/Portfolio";
 
-
 // Import the image
-import React from 'react';
-import Images from '../../images/html.png';
-import Images from './images/portfolio1.png';
-import Images from './images/project.png';
-import Images from './images/pwa.png';
-import Images from './images/task.png';
-import Images from './images/weather.png';
-
+import React from "react";
+import Images from "../../images/html.png";
+import Images from "./images/portfolio1.png";
+import Images from "./images/project.png";
+import Images from "./images/pwa.png";
+import Images from "./images/task.png";
+import Images from "./images/weather.png";
 
 const Images = () => {
   return (
